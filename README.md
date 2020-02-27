@@ -1,5 +1,5 @@
 # albertus-djangus
-Internes Wiki des Albertus Magnus Kollegs
+## Internes Wiki des Albertus Magnus Kollegs.  Basiert auf django-wiki.
 
 Prerequisites: Should be able to ignore errors.
 
