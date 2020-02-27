@@ -2,6 +2,7 @@
 Internes Wiki des Albertus Magnus Kollegs
 
 Prerequisites: Should be able to ignore errors.
+
 sudo apt-get install libjpeg8 libjpeg-dev libpng12-0 libpng12-dev
 
 ###Setting Up Virtual Env
@@ -13,7 +14,5 @@ sudo apt-get install libjpeg8 libjpeg-dev libpng12-0 libpng12-dev
 
 ###In desired directory with wikienv active:
 1. git clone https://github.com/livengooddaily/albertus-djangus.git
-2. cd albertus-djangus
-3. source wikienv/bin/activate
-4. cd dj_wiki
-5. python3 manage.py runserver
+2. cd albertus-djangus/dj_wiki
+3. python3 manage.py runserver
