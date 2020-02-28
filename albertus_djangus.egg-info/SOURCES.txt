@@ -1,0 +1,7 @@
+README.md
+setup.py
+albertus_djangus.egg-info/PKG-INFO
+albertus_djangus.egg-info/SOURCES.txt
+albertus_djangus.egg-info/dependency_links.txt
+albertus_djangus.egg-info/requires.txt
+albertus_djangus.egg-info/top_level.txt
